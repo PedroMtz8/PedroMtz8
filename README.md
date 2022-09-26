@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PedroMtz8
-- 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Web development
+- 👀 I’m interested in Frontend or Backend
+ 
 
 <!---
 PedroMtz8/PedroMtz8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
