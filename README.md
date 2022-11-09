@@ -1,11 +1,9 @@
 
- ![banner](https://user-images.githubusercontent.com/104749449/200681889-598ed200-1deb-46b5-bb32-79c18961d351.png)
-
-
 <h1 align="center">Hi 👋, I'm Pedro Martinez</h1>
 <h3 align="center">A passionate Full Stack Developer from Mexico</h3>
 
 <img src="https://komarev.com/ghpvc/?username=pedromtz8&label=Profile%20views&color=0e75b6&style=flat" alt="pedromtz8" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/104749449/200928646-583560ff-e80a-44ea-b776-fb3ebf25e245.gif"/>
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -15,7 +13,8 @@
 
 - 📫 How to reach me **pedrocmartinez568@gmail.com**
 
-<img align="rigth" src="https://cdn.dribbble.com/users/1514097/screenshots/5687494/media/35e4182a749400849fccc369485ce50b.gif" alt="pedromtz8" /> 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
