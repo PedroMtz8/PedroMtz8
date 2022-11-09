@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pedro Martinez</h1>
-<h3 align="center">A passionate Full Stack Developer from Mexico</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=pedromtz8&label=Profile%20views&color=0e75b6&style=flat" alt="pedromtz8" />
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/104749449/200928646-583560ff-e80a-44ea-b776-fb3ebf25e245.gif"/>
