@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Martinez</h1>
 <h3 align="center">A passionate Full Stack Developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromtz8&label=Profile%20views&color=0e75b6&style=flat" alt="pedromtz8" /> </p>
+<img src="https://komarev.com/ghpvc/?username=pedromtz8&label=Profile%20views&color=0e75b6&style=flat" alt="pedromtz8" />
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -14,6 +14,8 @@
 - 💬 Ask me about **React, Redux, Express**
 
 - 📫 How to reach me **pedrocmartinez568@gmail.com**
+
+<img align="rigth" src="https://cdn.dribbble.com/users/1514097/screenshots/5687494/media/35e4182a749400849fccc369485ce50b.gif" alt="pedromtz8" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
