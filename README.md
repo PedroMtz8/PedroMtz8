@@ -5,8 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=pedromtz8&label=Profile%20views&color=0e75b6&style=flat" alt="pedromtz8" />
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/104749449/200928646-583560ff-e80a-44ea-b776-fb3ebf25e245.gif"/>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://pedromtz8.github.io/Portfolio](https://pedromtz8.github.io/Portfolio)
 
 - 💬 Ask me about **React, Redux, Express**
