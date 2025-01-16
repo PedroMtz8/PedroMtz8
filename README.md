@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pedromtz8.github.io/Portfolio](https://pedromtz8.github.io/Portfolio)
 
-- 💬 Ask me about **React, Redux, Express**
+- 💬 Ask me about **Nextjs, Express, Nestjs, Typescript**
 
 - 📫 How to reach me **pedrocmartinez568@gmail.com**
 
